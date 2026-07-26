@@ -1,3 +1,6 @@
+## Preview
+
+![School Website Preview](screenshot.png)
 # School Website
 
 A structured school website developed using HTML5 to create a clean and informative online presence for an educational institution.
